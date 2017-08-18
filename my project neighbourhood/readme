@@ -1,0 +1,20 @@
+#running of the  project
+=>open index.html
+=>click on the buttons for location
+=>search location in search bar
+=>click markers for information
+#elements used
+=>use of knockout
+=>use of jQuery
+=>use of bootstrap
+=>use of google map
+#working of the  project
+=>open the source code and read the comments they will help you go through
+=>google api genrated and used
+=>styles added to google map
+=>use of foursquareid
+=>locations of Australia are used
+=>style references are teken from internet
+=>foursquares id are taken from internet
+=>latitude and longitude of Australia are taken from internet
+=>styles are added using CSS
